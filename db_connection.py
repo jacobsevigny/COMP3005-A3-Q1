@@ -1,5 +1,4 @@
 import psycopg2
-from psycopg2 import OperationalError
 from dotenv import dotenv_values
 
 #Connects to PostgreSQL DB with the credentials from .env file
